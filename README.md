@@ -5,6 +5,8 @@
 
 $ sudo apt-get install git -y 
 
+1.1 git 설치 확인을 위해 다음의 명령어를 입력하여 2.7.4의 버전으로 알맞게 설치가 되었는지 확인합니다. 
+
 $ git version 
 
 2. cURL 설치 
